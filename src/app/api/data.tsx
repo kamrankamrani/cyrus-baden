@@ -14,7 +14,7 @@ export const FeaturesData: {
     subheading: "Sed ut perspiciatis unde omnis iste natus error",
   },
   {
-    imgSrc: "/images/features/featureThree.png",
+    imgSrc: "/images/features/featureThree.png", //dummy commit
     heading: "Best chef",
     subheading: "Sed ut perspiciatis unde omnis iste natus error",
   },
